@@ -7,7 +7,7 @@
         {
           "foreground": "#FFBD00",
           "style": "plain",
-          "template": "\ueb99  {{ .UserName }} on ",
+          "template": "\ueb99 {{ .UserName }} in ",
           "type": "session"
         },
         {
